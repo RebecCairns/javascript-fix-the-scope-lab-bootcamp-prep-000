@@ -20,7 +20,7 @@ function funkyFunction() {
      return 'FUNCKY';
   }
   theFunck();
-  return "Function";
+  return "function";
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
